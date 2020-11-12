@@ -1,0 +1,4 @@
+eureka:
+  client:
+    service-url:
+    defaultZone: http://121.196.33.121:8001/eureka,http://121.196.33.121:8002/eureka,http://121.196.33.121:8003/eureka
